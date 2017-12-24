@@ -1,2 +1,2 @@
 # Projects
-Repositry of my projects, projects are seprated by branches. 
+Repository of my projects, projects are separated by branches.
